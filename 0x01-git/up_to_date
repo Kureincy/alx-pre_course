@@ -1,1 +1,1 @@
-command "touch up_to_date"
+use the command "git pull" and "touch up_to_date"
